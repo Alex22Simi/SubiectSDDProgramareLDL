@@ -1,0 +1,5 @@
+12.06.2024,Marian,2,plomba,300
+22.02.2022,Alex,5,operatie,350
+25.01.2023,Mihai,2,plomba,200
+12.06.2024,Emil,5,operatie,500
+12.06.2025,Ion,1,curatare,100
